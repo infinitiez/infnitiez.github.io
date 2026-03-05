@@ -243,7 +243,7 @@ const favourite_consumables = {};
 const favourite_items = {};
 //items to be displayed with "show faves" option in inventory
 
-const tickrate = 87;
+const tickrate = 7;
 //how many ticks per second
 //7 is the default value; going too high might make the game unstable
 
